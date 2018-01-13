@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Key file of project
+server/config.js
